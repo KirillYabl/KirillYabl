@@ -40,7 +40,8 @@ Thank you for visiting my profile!
   - Jupyter Notebook
   - Excel
 
-- **Development Practices:**  - Microservices Architecture
+- **Development Practices:**
+  - Microservices Architecture
   - Asynchronous Programming
   - RESTful API Development
   - Unit Testing
